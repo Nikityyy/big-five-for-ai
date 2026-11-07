@@ -1,5 +1,10 @@
 # The Big Five for AI
 
+[![Version 0.1.0](https://img.shields.io/badge/version-0.1.0-1d1d1f)](.claude-plugin/plugin.json)
+[![License: MIT](https://img.shields.io/badge/license-MIT-1d1d1f)](LICENSE)
+[![Claude Code plugin](https://img.shields.io/badge/Claude_Code-plugin-1d1d1f)](#install)
+[![Codex skill](https://img.shields.io/badge/Codex-skill-1d1d1f)](#install)
+
 Five principles that make AI agents work the way I work. One install, and every Claude Code and Codex session follows them.
 
 > Do work the best in the field would sign off on, and never waste anyone's time getting there.
