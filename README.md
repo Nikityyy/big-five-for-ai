@@ -5,6 +5,8 @@
 [![Claude Code plugin](https://img.shields.io/badge/Claude_Code-plugin-1d1d1f)](#install)
 [![Codex skill](https://img.shields.io/badge/Codex-skill-1d1d1f)](#install)
 
+https://github.com/user-attachments/assets/5f310f0d-310f-4546-9518-c6d4fbca20e8
+
 Five principles that make AI agents work the way I work. One install, and every Claude Code and Codex session follows them.
 
 > Do work the best in the field would sign off on, and never waste anyone's time getting there.
