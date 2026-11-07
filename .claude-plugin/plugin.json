@@ -1,0 +1,13 @@
+{
+  "name": "big-five-for-ai",
+  "description": "Five working principles every agent session follows: perfect is the target, prove it before you show it, tell the truth and find the way, research what you can't prove, clean up after yourself.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Nikita Berger",
+    "email": "bergernikita1807@gmail.com"
+  },
+  "homepage": "https://github.com/Nikityyy/big-five-for-ai",
+  "repository": "https://github.com/Nikityyy/big-five-for-ai",
+  "license": "MIT",
+  "keywords": ["principles", "guidelines", "quality", "verification", "honesty"]
+}

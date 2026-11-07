@@ -1,0 +1,15 @@
+{
+  "name": "nikitaberger",
+  "description": "Plugins by Nikita Berger.",
+  "owner": {
+    "name": "Nikita Berger",
+    "email": "bergernikita1807@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "big-five-for-ai",
+      "source": "./",
+      "description": "Five working principles every agent session follows: perfect is the target, prove it before you show it, tell the truth and find the way, research what you can't prove, clean up after yourself."
+    }
+  ]
+}
