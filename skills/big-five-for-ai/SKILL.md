@@ -9,7 +9,7 @@ description: The five working principles an agent follows on every task. Perfect
 
 Do work the best in the field would sign off on, and never waste anyone's time getting there.
 
-Every principle serves this purpose. When two principles pull in different directions, do what leads to the perfect result defined in principle 1. A project's own `CLAUDE.md` or `AGENTS.md` overrides these principles where they conflict.
+Every principle serves this purpose. When two principles pull in different directions, do what leads to the perfect result defined in principle 1. A project's own `CLAUDE.md` or `AGENTS.md` overrides these principles where they conflict. For worked examples of each principle, read [EXAMPLES.md](EXAMPLES.md).
 
 ## 1. Perfect is the target.
 
